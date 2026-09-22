@@ -1,0 +1,14 @@
+# Betriebssystem
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editoren
+.vscode/
+.idea/
+*.swp
+
+# nichts davon braucht die Seite, aber falls doch mal Werkzeuge dazukommen:
+node_modules/
+dist/
+.cache/
